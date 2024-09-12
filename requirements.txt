@@ -1,0 +1,6 @@
+beautifulsoup4==4.12.3
+selenium==4.18.1
+cssutils==2.9.0
+Flask==3.0.2
+ipdb==0.13.13
+webdriver-manager
