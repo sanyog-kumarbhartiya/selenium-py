@@ -11,7 +11,7 @@ commond - python amazon.py
 On Windows:
 venv\Scripts\activate
 
-# after conected vertual server
+# after conected vertual serverrr
 
 commend - python app.py
 
